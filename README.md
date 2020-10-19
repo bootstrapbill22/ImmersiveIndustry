@@ -2,3 +2,6 @@
 Hopefully mod addon for Immersive Engineering, don't hold your breath
 
 Note the Waterwheel currently uses Immersive Engineerings multiblock_base.png texture as it's texture. I don't think I should and don't know if I'm allowed to rehost that so you'll have to edit the big_waterwheel.mtl in a notepad editor and point it to whereever you've put that file locally.
+
+
+Actually setting up github to host my code (such as it is) is on todo list, for now putting models here to share.
